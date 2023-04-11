@@ -1,1 +1,1 @@
-print("wr")
+print("wgr")
